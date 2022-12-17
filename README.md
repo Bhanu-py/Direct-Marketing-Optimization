@@ -1,5 +1,5 @@
-# Direct-Marketing-Optimization
-## Propensity Modeling
+# **Direct-Marketing-Optimization**
+## _Propensity Modeling_
 
 Direct Marketing Optimization of campaigns on customers based on propensity modelling.
 
@@ -27,5 +27,12 @@ Expected result:
 The executive summary of the analysis should not be larger than two pages. Attach the technical 
 report, list of clients to be contacted with which offer, data, algorithms and codes used.
 
-## Project Work-FLow
+## _Project Work-FLow_
 ![image](https://user-images.githubusercontent.com/57532016/208249823-558861a4-5f81-435c-99e1-75806f8df0b3.png)
+
+## _Revenue Optimization_ 
+Heuristic 1: average costs and revenues
+![image](https://user-images.githubusercontent.com/57532016/208250042-8bcc71d9-8a16-4d38-8a2d-3ed72eb9a22f.png)
+
+_**Reference**_:  
+Optimization models for targeted offers in direct marketing: exact and heuristic algorithms: https://doi.org/10.1016/j.ejor.2010.10.019
