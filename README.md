@@ -3,6 +3,8 @@
 
 Direct Marketing Optimization of campaigns on customers based on propensity modelling.
 
+- [Executive Summary](https://github.com/Bhanu-py/Direct-Marketing-Optimization/blob/master/executive-summary.pdf)
+- [Technical Report](https://github.com/Bhanu-py/Direct-Marketing-Optimization/blob/master/technical_report.pdf)
 
 Data: 
 For the analysis, several tables are available:
@@ -35,4 +37,5 @@ Heuristic 1: average costs and revenues
 ![image](https://user-images.githubusercontent.com/57532016/208250042-8bcc71d9-8a16-4d38-8a2d-3ed72eb9a22f.png)
 
 _**Reference**_:  
-Optimization models for targeted offers in direct marketing: exact and heuristic algorithms: https://doi.org/10.1016/j.ejor.2010.10.019
+Optimization models for targeted offers in direct marketing: exact and heuristic algorithms: 
+[Paper](https://doi.org/10.1016/j.ejor.2010.10.019)
