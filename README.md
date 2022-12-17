@@ -26,3 +26,6 @@ Expected result:
 - What would be the expected revenue based on your strategy? 
 The executive summary of the analysis should not be larger than two pages. Attach the technical 
 report, list of clients to be contacted with which offer, data, algorithms and codes used.
+
+## Project Work-FLow
+![image](https://user-images.githubusercontent.com/57532016/208249823-558861a4-5f81-435c-99e1-75806f8df0b3.png)
